@@ -1,3 +1,3 @@
 # AzureImageBuilder
-Updated Again
+Updated Again with some more notes.
 
